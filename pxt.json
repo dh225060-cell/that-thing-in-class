@@ -2,7 +2,8 @@
     "name": "that thing is class",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "multiplayer": "*"
     },
     "files": [
         "main.blocks",
